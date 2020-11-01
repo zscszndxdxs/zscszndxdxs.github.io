@@ -7,7 +7,7 @@
     <style>
         body{
 
-              background-image: url("next level images/background.jpg");        
+              background-image: url("background.jpg");        
               background-repeat: no-repeat;  
               background-size:100% 200%;
           }
@@ -26,7 +26,7 @@
 </head>
 <body>
     <audio controls>
-    <source src ="audio/see.mp3" type = "audio/mpeg">
+    <source src ="see.mp3" type = "audio/mpeg">
     </audio>
     
         <p>
@@ -35,8 +35,8 @@
             </h1>  
        </p>
        <h3>>本人照片<</h3><br>
-       <img src = "next level images/zsc.jpg" style="height: 300px; width: 300px " />
-        <img src = "next level images/my02.jpg" style ="height: 300px; width :200px;"align= "right">
+       <img src = "zsc.jpg" style="height: 300px; width: 300px " />
+        <img src = "my02.jpg" style ="height: 300px; width :200px;"align= "right">
        <h3 align =right><pre> QQ二维码</pre></h3>
     <h3>1,张是超的居住地介绍</h3>
     <p> <strong>出生地 ：</strong> 河南省虞城县&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
